@@ -72,7 +72,7 @@ Prerequisites:
 - A desktop monitor arm or wall mount that is rated to handle the weight
   of your scope
 
-Measurement and Marking:
+Measurement and marking:
 
 - Inexpensive digital calipers or a ruler
 - Paint marker to transfer hole locations to the enclosure or bracket
@@ -361,9 +361,8 @@ Mark the candidate locations with a paint marker.
 If you are really lucky, you might be able to put your screws through
 the enclosure and directly connect it to your VESA mounting plate!
 
-If so, simply place your VESA plate onto the back of the enclosure and
-mark the hole locations. Or simply measure out the 75×75 mm or 100×100 mm
-square pattern.
+If so, simply place your VESA plate  or hole pattern onto the back of the enclosure and
+mark the hole locations.
 
 Drill holes, fasten the plate on with a bolt and washers, and call it a
 day!
