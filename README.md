@@ -833,6 +833,7 @@ You've added VESA mounting to your oscilloscope, which opens up flexible positio
 
 ## Links
 
-- <https://github.com/jasonluther/oscilloscope-mount>
+- Github: <https://github.com/jasonluther/oscilloscope-mount>
+- Instructables: <https://www.instructables.com/Mount-Your-Oscilloscope-to-a-Monitor-Arm/>
 
 &copy; 2025 Jason Luther. All rights reserved.
