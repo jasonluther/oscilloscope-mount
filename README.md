@@ -36,7 +36,7 @@ using basic tools like a drill and screwdriver.
 
 ### General Steps
 
-![3D-printed VESA bracket close-up](img/02-bracket-installation-detail.jpeg)
+![3D-printed VESA bracket close-up](img/01-bracket-installation-detail.jpeg)
 
 *3D-printed bracket joining a VESA quick-release mount to an oscilloscope.*
 
@@ -51,11 +51,11 @@ There are two different bracket attachment options:
 
 2. **Enclosure Through-Bolts**: Drill new holes through the oscilloscope's back enclosure and secure the bracket with bolts and large washers.
 
-![Chassis attachment exploded view](img/20-chassis-attachment-diagram.png)
+![Chassis attachment exploded view](img/02-chassis-attachment-diagram.png)
 
 *Chassis attachment method: Bracket screws directly into internal threaded standoffs, with VESA mounting plate attached to the outer face of the bracket.*
 
-![Enclosure attachment exploded view](img/21-enclosure-attachment-diagram.png)
+![Enclosure attachment exploded view](img/03-enclosure-attachment-diagram.png)
 
 *Enclosure attachment method: Through-bolts pass through enclosure, bracket, and VESA mounting plate, secured with washers on the inside.*
 
@@ -158,7 +158,7 @@ in the guide.
 
 ## Open Your Oscilloscope
 
-![Opened oscilloscope enclosure](img/03-oscilloscope-opened.jpeg)
+![Opened oscilloscope enclosure](img/04-oscilloscope-opened.jpeg)
 
 *Rigol DS1054z with enclosure separated, revealing chassis with
 standoffs on the left and a plastic enclosure on the right.*
@@ -215,7 +215,7 @@ Post](https://www.eevblog.com/2014/10/15/eevblog-674-rigol-ds1054z-teardown/)
 (thanks, Dave!)
 illustrate what's available to use for this project.
 
-![EEVblog teardown screenshot](img/22-eevblog-screenshot.png)
+![EEVblog teardown screenshot](img/11-eevblog-screenshot.png)
 
 - [Inside view](https://www.flickr.com/photos/eevblog/14919421894/)
   showing some promising threaded inserts
@@ -228,7 +228,7 @@ two behind the handle. Keep track of which screws go where! The foot
 screws have the coarser thread. There are no internal cables to
 disconnect.
 
-![Screws to remove for disassembly](img/04-disassembly-screws.jpeg)
+![Screws to remove for disassembly](img/05-disassembly-screws.jpeg)
 
 *Rigol DS1054z disassembly: remove screws near feet (left) and behind handle (right).*
 
@@ -249,7 +249,7 @@ guide presents two options.
    bolts with large washers. This method might work for more
    oscilloscopes, assuming the enclosure is strong enough.
 
-![Two attachment method options](img/05-attachment-methods-comparison.jpeg)
+![Two attachment method options](img/06-attachment-methods-comparison.jpeg)
 
 *Left: Chassis with screws placed into existing threaded standoffs.
 Right: Enclosure with holes drilled and screws inserted (screw heads are painted orange).*
@@ -264,7 +264,7 @@ Once you know your attachment method, choose how to build the bracket:
 
 For simplicity, this guide pairs chassis standoffs with 3D printing, and enclosure attachment with woodworking. However, the methods are interchangeable—you can use any combination that works for your oscilloscope.
 
-![Three bracket design examples](img/06-bracket-comparison.jpeg)
+![Three bracket design examples](img/07-bracket-comparison.jpeg)
 
 *Three brackets: wood, simple 3D print, 3D print that follows enclosure contours.*
 
@@ -275,7 +275,7 @@ internal threads) on its chassis that make the project straightforward.
 These standoffs hold the internal power supply and a circuit board, but the screws don't
 run the entire length, leaving threads available for bracket attachment.
 
-![Internal chassis standoffs with screws](img/07-measuring-standoff-spacing.jpeg)
+![Internal chassis standoffs with screws](img/08-measuring-standoff-spacing.jpeg)
 
 *Eight chassis standoffs are available, with some M3 screws inserted for measurement.*
 
@@ -296,7 +296,7 @@ the scope's enclosure. If space allows, you may be able to increase the
 strength of the connection using large washers or rigid plates behind
 the enclosure. Use as many connection points as you need.
 
-![Enclosure with safe drilling zones marked](img/08-enclosure-safe-drilling.jpeg)
+![Enclosure with safe drilling zones marked](img/09-enclosure-safe-drilling.jpeg)
 
 *Identify safe drilling locations (marked in orange) in cavities between internal components.*
 
@@ -309,7 +309,7 @@ Look for threaded inserts or other usable structures on the chassis.
 If you find something promising, investigate
 further. **Example:** I found 8 threaded holes in the rear frame of my scope.
 
-![Enclosure rear showing threaded holes](img/Enclosure%20Holes.jpeg)
+![Enclosure rear showing threaded holes](img/10-enclosure-holes.jpeg)
 
 *Rear view of oscilloscope enclosure showing through holes (marked in
 orange) that correspond to the hole locations in the chassis.*
@@ -389,7 +389,7 @@ paint to the heads, and then carefully place the enclosure back into
 place. Press firmly over each screw. Then remove the enclosure and check
 the paint transfer.
 
-![Paint transfer workflow composite](img/09-paint-transfer-workflow.jpeg)
+![Paint transfer workflow composite](img/12-paint-transfer-workflow.jpeg)
 
 *Paint marker transfer method: paint on screw heads (top) and drilled hole at paint-transferred location (bottom).*
 
@@ -414,7 +414,7 @@ provide a way to securely attach a VESA mounting plate:
 Choose your fabrication method. This guide covers 3D printing and woodworking.
 
 ![Wooden bracket and 3D-printed
-bracket](img/Wood%20or%203D%20print.jpeg)
+bracket](img/13-wood-or-3d-print.jpeg)
 
 *Wooden bracket and 3D-printed bracket shown for comparison.*
 
@@ -424,7 +424,7 @@ get, and it doesn't require any fancy or expensive tools.
 ## 3D Printing
 
 ![Rectangular 3D-printed
-bracket](img/Rectangular%203D-printed%20bracket.jpeg)
+bracket](img/14-rectangular-3d-printed-bracket.jpeg)
 
 *Simple 3D-printed bracket.*
 
@@ -433,11 +433,11 @@ If you've chosen to 3D print your bracket, you have two design options depending
 Any CAD program and slicer will work for this project. I provide an
 Onshape model for reference.
 
-![Onshape CAD model screenshot](img/onshape%20cad%20model%20screen%20shot.png)
+![Onshape CAD model screenshot](img/15-onshape-cad-model-screenshot.png)
 
 *Onshape CAD model showing simple rectangular bracket with VESA hole pattern and captive nut pockets.*
 
-![Slicer screenshot](img/slicer%20screen%20shot.png)
+![Slicer screenshot](img/16-slicer-screenshot.png)
 
 *PrusaSlicer screenshot.*
 
@@ -475,7 +475,7 @@ screw to the far side of the other. This will give you the distance
 between hole centers. If you don't have calipers,
 measure with a ruler.
 
-![Caliper measurement techniques composite](img/10-measurement-techniques.jpeg)
+![Caliper measurement techniques composite](img/17-measurement-techniques.jpeg)
 
 *Left: Zero calipers on screw shaft. Middle: Measure center-to-center
 distance. Right: Record measurements.*
@@ -523,7 +523,7 @@ Decide how much material to place around each hole. I chose 10 mm
 wherever possible. Draw a rectangle outset from your outer holes by that
 amount.
 
-![CAD sketch of bracket design](img/23-bracket-sketch.png)
+![CAD sketch of bracket design](img/37-bracket-sketch.png)
 
 *CAD sketch of hole locations and basic outline.*
 
@@ -536,7 +536,7 @@ the test pattern onto the scope, place the VESA mount (if possible), and
 install the screws. Adjust your model as needed, and repeat the process
 until you are happy with the fit.
 
-![Test fitting paper bracket template](img/11-bracket-fit.jpeg)
+![Test fitting paper bracket template](img/18-bracket-fit.jpeg)
 
 *Testing hole alignment with paper cutout.*
 
@@ -570,19 +570,19 @@ centered with the screw hole. Measure the width of the flats on the nut
 (M4 nuts should be 7 mm). Add 0.1-0.4 mm to make the nut easy to insert.
 Dimension your hexagon accordingly.
 
-![Bracket showing hexagonal nut pockets](img/12-hex-nut-pockets.jpeg)
+![Bracket showing hexagonal nut pockets](img/19-hex-nut-pockets.jpeg)
 
 *Hexagonal pockets in 3D-printed bracket hold captive M4 nuts for secure VESA plate attachment.*
 
-![Captive nut close-up detail](img/Captive%20nut%20detail.jpeg)
+![Captive nut close-up detail](img/20-captive-nut-detail.jpeg)
 
 *Close-up showing M4 hex nut seated in hexagonal captive pocket.*
 
-![VESA plate attached](img/VESA%20plate%20attached.jpeg)
+![VESA plate attached](img/21-vesa-plate-attached.jpeg)
 
 *VESA plate attached to back of bracket.*
 
-![VESA plate viewed from front](img/Rectangular%20bracket.jpeg)
+![VESA plate viewed from front](img/22-rectangular-bracket.jpeg)
 
 *Front view of VESA plate showing captive nuts.*
 
@@ -594,7 +594,7 @@ enclosure. Extrude the pocket to that depth.
 Consider making a test part with different nut width dimensions to see
 which works best for you.
 
-![CAD model of nut test tool](img/24-nut-test-fit-tool.png)
+![CAD model of nut test tool](img/23-nut-test-fit-tool.png)
 
 *Simple fit test tool model.*
 
@@ -608,13 +608,13 @@ First, create a text element in your sketch.
 Inside the text dialog, right click on the text entry field and select
 "Convert to expression."
 
-![Onshape context menu screenshot](img/25-convert-to-expression.png)
+![Onshape context menu screenshot](img/24-convert-to-expression.png)
 
 To show "7 mm" in my sketch, I have a variable `#baseWidth` set to 7 mm.
 This is the expression:
 `roundToPrecision(#baseWidth/mm, 3) ~ " mm"`
 
-![Onshape expression with variable](img/26-expression-with-variable.png)
+![Onshape expression with variable](img/25-expression-with-variable.png)
 
 If I want to use this fit test tool for another size of nut, I just have
 to change the value of `#baseWidth`. The labels will automatically
@@ -664,7 +664,7 @@ After installing all screws, perform these final checks:
 Finally, place the scope onto the monitor arm and secure the quick-release
 mechanism. You're ready to move on to your next electronics project!
 
-![3D printed bracket with VESA mount](img/3D%20printed%20bracket%20attached.jpeg)
+![3D printed bracket with VESA mount](img/26-3d-printed-bracket-attached.jpeg)
 
 *Completed 3D-printed bracket attached to oscilloscope rear with VESA quick-release mechanism installed.*
 
@@ -676,7 +676,7 @@ As mentioned above, my scope's chassis hole pattern that allows for
 longer screws to be used has downsides: it places two of the holes in the
 middle of a curved surface and one in a recess in the enclosure.
 
-![Yellow test blocks for curve fitting](img/14-contour-test-blocks.jpeg)
+![Yellow test blocks for curve fitting](img/27-contour-test-blocks.jpeg)
 
 *Yellow test blocks with different radii determine curve shape.*
 
@@ -692,7 +692,7 @@ hole placements. The better the fit, the more evenly the stress will be
 spread across the enclosure. Based on the tests, I sketched the final
 profile and extruded away the excess material.
 
-![Contoured bracket design](img/Countoured%20bracket.jpeg)
+![Contoured bracket design](img/28-contoured-bracket.jpeg)
 
 *Final contoured 3D-printed bracket showing cutout to accommodate handle protrusion and curved surfaces.*
 
@@ -700,7 +700,7 @@ profile and extruded away the excess material.
 
 ## Woodworking
 
-![Wooden bracket](img/Secure%20VESA%20to%20bracket.jpeg)
+![Wooden bracket](img/29-secure-vesa-to-bracket.jpeg)
 
 *Wooden bracket installed.*
 
@@ -749,7 +749,7 @@ Transfer the marks to the wood using a hobby knife or pen that leave a visible i
 Then mark all of the cut lines in pencil. Clearly designate which side of
 the line is to be cut.
 
-![Masking tape template workflow composite](img/15-template-workflow.jpeg)
+![Masking tape template workflow composite](img/30-template-workflow.jpeg)
 
 *Left: Masking tape applied to enclosure. Middle: Template transferred
 to wood. Right: Cut lines marked with indications of which side to
@@ -762,7 +762,7 @@ Use the saw of your choice to remove the material you marked out.
 For a jigsaw, I find it convenient to drill holes at the corners of each
 cut.
 
-![Bracket on a drill press (left), bracket test fit on the scope (right).](img/16-cutting-process.jpeg)
+![Bracket on a drill press (left), bracket test fit on the scope (right).](img/31-cutting-process.jpeg)
 
 *Left: Drill press with Forstner bit installed. Right: Test fit of bracket.*
 
@@ -807,7 +807,7 @@ outline.
 For the VESA holes, if you have a quick-release mounting plate, mark the holes in the same way as
 above. If you don't, measure and mark out your 75×75 mm or 100×100 mm pattern.
 
-![VESA plate positioning on bracket](img/17-mark-vesa-holes.jpeg)
+![VESA plate positioning on bracket](img/32-mark-vesa-holes.jpeg)
 
 *Position VESA plate on bracket to mark mounting hole locations accurately.*
 
@@ -841,7 +841,7 @@ To spread out the stress on your oscilloscope's
 enclosure, use the largest washers that will fit in the space you have.
 For bolts, use washers for both the screw head and the nut.
 
-![Wooden bracket with washer detail inset](img/18-washer-installation-detail.jpeg)
+![Wooden bracket with washer detail inset](img/33-washer-installation-detail.jpeg)
 
 *Main view shows complete wooden bracket installation. Inset shows the
 washer placement.*
@@ -875,15 +875,15 @@ Finally, attach the scope to your monitor arm and fully secure it.
 
 You've added VESA mounting to your oscilloscope, which opens up flexible positioning options and frees up valuable bench space.
 
-![Oscilloscope mounted on arm, back view](img/19-mounted-back-view.jpeg)
+![Oscilloscope mounted on arm, back view](img/34-mounted-back-view.jpeg)
 
 *Back view showing bracket integration with monitor arm and quick-release mechanism.*
 
-![End result rear view](img/End%20result%20-%20rear%20view.jpeg)
+![End result rear view](img/35-end-result-rear-view.jpeg)
 
 *Close-up rear view of contoured bracket installed with VESA quick-release mechanism.*
 
-![Oscilloscope mounted on arm, front view](img/01-oscilloscope-on-monitor-arm-compact.jpeg)
+![Oscilloscope mounted on arm, front view](img/36-oscilloscope-on-monitor-arm-compact.jpeg)
 
 *Front view of completed VESA-mounted oscilloscope positioned on desktop monitor arm.*
 
